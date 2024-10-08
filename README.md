@@ -17,10 +17,10 @@
 - Visual Studio code
 
 ## 📊 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/RullyFahrezi/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RullyFahrezi&show_icons=true&theme=ocean_dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/RullyFahrezi/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RullyFahrezi&layout=compact&langs_count=8&card_width=50&show_icons=true&theme=ocean_dark" />
 </a>
 
