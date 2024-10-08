@@ -16,8 +16,8 @@ I'm exploring robotics and technology with a focus on troubleshooting and automa
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 ```
-
+```
 ## 📫 Contact Me
 - [Email](rullyfahrezi438@gmail.com)
 - [LinkedIn](www.linkedin.com/in/rully-fahrezi-nugraha-46a80a292)
-```
+
