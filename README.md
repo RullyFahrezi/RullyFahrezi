@@ -1,8 +1,11 @@
+<h1 align=center>Hi 👋 I'm Rully Fahrezi! </h1>
 
-# Hi 👋 I'm Rully Fahrezi!
+<p align="center">
+  I'm exploring robotics and technology with a focus on troubleshooting and automation.<br>
+  Now, I'm diving into <b>expand my skills</b> and learn something new.
+</p>
 
-## 👨‍💻 About Me
-I'm exploring robotics and technology with a focus on troubleshooting and automation. Now, I'm diving into expand my skills and learn something new.
+
 
 ## 🌱 Languages I'm Learning
 - C++
@@ -14,10 +17,13 @@ I'm exploring robotics and technology with a focus on troubleshooting and automa
 - Visual Studio code
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-```
-```
-## 📫 Contact Me
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RullyFahrezi&theme=merko" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RullyFahrezi&layout=compact&langs_count=8&card_width=320&theme=merko" />
+</a>
+
+## 📫 Connect with me:
 - [Email](rullyfahrezi438@gmail.com)
 - [LinkedIn](www.linkedin.com/in/rully-fahrezi-nugraha-46a80a292)
-
