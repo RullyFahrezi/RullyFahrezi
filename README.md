@@ -21,7 +21,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RullyFahrezi&show_icons=true&theme=ocean_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RullyFahrezi&layout=compact&langs_count=8&card_width=220&show_icons=true&theme=ocean_dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RullyFahrezi&layout=compact&langs_count=8&card_width=50&show_icons=true&theme=ocean_dark" />
 </a>
 
 ## 📫 Connect with me:
